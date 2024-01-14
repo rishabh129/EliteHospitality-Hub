@@ -42,17 +42,17 @@ EliteHospitality Hub is a premium hotel management software built in Python, lev
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/EliteHospitalityHub.git
+   git clone https://github.com/rishabh129/EliteHospitalityHub.git
 
-2. Install Dependencies:
+2. **Install Dependencies**:
     ```bash
-   git clone https://github.com/your-username/EliteHospitalityHub.git
+   pip install -r requirements.txt
 
-3. Database Setup:
-  Create a MySQL database and import the provided schema.
-  Configure the database connection in config.py.
+3. **Database Setup**:
+  - Create a MySQL database and import the provided schema.
+  - Configure the database connection in config.py.
 
-4. Run the Application:
+4. **Run the Application**:
      ```bash
    python main.py
 
@@ -61,3 +61,12 @@ EliteHospitality Hub is a premium hotel management software built in Python, lev
 - Launch the application and navigate through the welcome screen and main menu.
 - Add, update, and delete guest details.
 - Generate billing receipts for guests.
+
+## Contributing
+
+- Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+## Acknowledgments
+
+- Thanks to contributors who have contributed to this project.
+- Special thanks to the Python and MySQL communities.
