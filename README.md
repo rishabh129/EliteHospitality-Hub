@@ -27,10 +27,9 @@ EliteHospitality Hub is a premium hotel management software built in Python, lev
 ## Screenshots
 
 
-<img src="WelcomeScreen.png" width="500" height="750">
-<img src="ReceiptScreen.png" width="400" height="700">
+<img src="WelcomeScreen.png" width="600" height="800"> <img src="ReceiptScreen.png" width="600" height="700">
 
-<img src="MainScreen.png" width="1200" height="500">
+<img src="MainScreen.png" width="1400" height="600">
 
 
 ## Technologies Used
