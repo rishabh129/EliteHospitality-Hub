@@ -1,7 +1,5 @@
 # EliteHospitality Hub - Hotel Management Software
 
-![EliteHospitality Hub Logo](path/to/your/logo.png)
-
 ## Overview
 
 EliteHospitality Hub is a premium hotel management software built in Python, leveraging Object-Oriented Programming (OOPs) concepts. This software utilizes various Python packages and connects to a MySQL database using `mysql-connector`. It provides a comprehensive solution for managing guests, room details, and generating billing receipts.
@@ -28,10 +26,9 @@ EliteHospitality Hub is a premium hotel management software built in Python, lev
 
 ## Screenshots
 
-![Welcome Screen](path/to/welcome-screen.png)
-![Main Menu](path/to/main-menu.png)
-![Guest Details](path/to/guest-details.png)
-![Billing Receipt](path/to/billing-receipt.png)
+![Welcome Screen](WelcomeScreen.png)
+![Main Menu](MainScreen.png)
+![Billing Receipt](ReceiptScreen.png)
 
 ## Technologies Used
 
